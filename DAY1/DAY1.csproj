@@ -1,0 +1,116 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="00_entry1.cs" />
+    <Compile Remove="00_entry2.cs" />
+    <Compile Remove="01_using1.cs" />
+    <Compile Remove="01_using2.cs" />
+    <Compile Remove="01_using3.cs" />
+    <Compile Remove="02_read1.cs" />
+    <Compile Remove="02_read2.cs" />
+    <Compile Remove="02_read3.cs" />
+    <Compile Remove="02_read4.cs" />
+    <Compile Remove="03_variable1.cs" />
+    <Compile Remove="03_variable2.cs" />
+    <Compile Remove="03_variable3.cs" />
+    <Compile Remove="03_variable4.cs" />
+    <Compile Remove="03_variable5.cs" />
+    <Compile Remove="03_variable6.cs" />
+    <Compile Remove="04_cts.cs" />
+    <Compile Remove="05_control_statement1_if.cs" />
+    <Compile Remove="05_control_statement3_switch_expression.cs" />
+    <Compile Remove="06_loop1_while.cs" />
+    <Compile Remove="06_loop2_do_while.cs" />
+    <Compile Remove="06_loop3_for.cs" />
+    <Compile Remove="06_loop4_foreach.cs" />
+    <Compile Remove="07_object1.cs" />
+    <Compile Remove="07_object2.cs" />
+    <Compile Remove="07_object3.cs" />
+    <Compile Remove="07_object4.cs" />
+    <Compile Remove="07_object5.cs" />
+    <Compile Remove="08_value_vs_reference1.cs" />
+    <Compile Remove="08_value_vs_reference2.cs" />
+    <Compile Remove="08_value_vs_reference3.cs" />
+    <Compile Remove="08_value_vs_reference4.cs" />
+    <Compile Remove="09_string1.cs" />
+    <Compile Remove="09_string2.cs" />
+    <Compile Remove="09_string3.cs" />
+    <Compile Remove="09_string4.cs" />
+    <Compile Remove="10_tuple1.cs" />
+    <Compile Remove="10_tuple2.cs" />
+    <Compile Remove="10_tuple3.cs" />
+    <Compile Remove="10_tuple4.cs" />
+    <Compile Remove="10_tuple5.cs" />
+    <Compile Remove="11_nullable1.cs" />
+    <Compile Remove="11_nullable2.cs" />
+    <Compile Remove="11_nullable3.cs" />
+    <Compile Remove="12_nullable_operator1.cs" />
+    <Compile Remove="12_nullable_operator2.cs" />
+    <Compile Remove="12_nullable_operator3.cs" />
+    <Compile Remove="13_nullable_reference1.cs" />
+    <Compile Remove="13_nullable_reference2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="07_object5.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="00_entry1.cs" />
+    <None Include="00_entry2.cs" />
+	<None Include="01_using1.cs" />
+	<None Include="01_using2.cs" />
+	<None Include="01_using3.cs" />
+	<None Include="02_read1.cs" />
+	<None Include="02_read2.cs" />
+	<None Include="02_read3.cs" />
+	<None Include="02_read4.cs" />
+	<None Include="03_variable1.cs" />
+	<None Include="03_variable2.cs" />
+	<None Include="03_variable3.cs" />
+	<None Include="03_variable4.cs" />
+	<None Include="03_variable5.cs" />
+	<None Include="03_variable6.cs" />
+	<None Include="04_cts.cs" />
+    <None Include="05_control_statement1_if.cs" />
+    <None Include="05_control_statement3_switch_expression.cs" />
+    <None Include="06_loop1_while.cs" />
+    <None Include="06_loop2_do_while.cs" />
+    <None Include="06_loop3_for.cs" />
+    <None Include="06_loop4_foreach.cs" />
+    <None Include="07_object1.cs" />
+    <None Include="07_object2.cs" />
+    <None Include="07_object3.cs" />
+    <None Include="07_object4.cs" />
+    <None Include="08_value_vs_reference1.cs" />
+    <None Include="08_value_vs_reference2.cs" />
+    <None Include="08_value_vs_reference3.cs" />
+    <None Include="08_value_vs_reference4.cs" />
+    <None Include="09_string1.cs" />
+    <None Include="09_string2.cs" />
+    <None Include="09_string3.cs" />
+    <None Include="09_string4.cs" />
+    <None Include="10_tuple1.cs" />
+    <None Include="10_tuple2.cs" />
+    <None Include="10_tuple3.cs" />
+    <None Include="10_tuple4.cs" />
+    <None Include="10_tuple5.cs" />
+    <None Include="11_nullable1.cs" />
+    <None Include="11_nullable2.cs" />
+    <None Include="11_nullable3.cs" />
+    <None Include="12_nullable_operator1.cs" />
+    <None Include="12_nullable_operator2.cs" />
+    <None Include="12_nullable_operator3.cs" />
+    <None Include="13_nullable_reference1.cs" />
+    <None Include="13_nullable_reference2.cs" />
+  </ItemGroup>
+
+
+</Project>
