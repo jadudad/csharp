@@ -1,0 +1,114 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_method1_expression_bodied.cs" />
+    <Compile Remove="01_method2_named_argument1.cs" />
+    <Compile Remove="01_method3_optional_parameter1.cs" />
+    <Compile Remove="01_method4_params1.cs" />
+    <Compile Remove="01_method5_params2.cs" />
+    <Compile Remove="02_parameter_modifier1.cs" />
+    <Compile Remove="02_parameter_modifier2.cs" />
+    <Compile Remove="02_parameter_modifier3.cs" />
+    <Compile Remove="02_parameter_modifier4.cs" />
+    <Compile Remove="02_parameter_modifier5.cs" />
+    <Compile Remove="02_parameter_modifier6.cs" />
+    <Compile Remove="03_OOP1.cs" />
+    <Compile Remove="03_OOP2.cs" />
+    <Compile Remove="03_OOP3.cs" />
+    <Compile Remove="04_private.cs" />
+    <Compile Remove="05_deconstructor.cs" />
+    <Compile Remove="06_static1.cs" />
+    <Compile Remove="06_static2.cs" />
+    <Compile Remove="06_static3.cs" />
+    <Compile Remove="06_static4.cs" />
+    <Compile Remove="06_static5.cs" />
+    <Compile Remove="06_static6.cs" />
+    <Compile Remove="07_static_class.cs" />
+    <Compile Remove="07_static_class2.cs" />
+    <Compile Remove="08_static_constructor.cs" />
+    <Compile Remove="08_static_constructor2.cs" />
+    <Compile Remove="09_property1.cs" />
+    <Compile Remove="09_property2.cs" />
+    <Compile Remove="09_property3.cs" />
+    <Compile Remove="10_property_example1.cs" />
+    <Compile Remove="10_property_example2.cs" />
+    <Compile Remove="10_property_example3.cs" />
+    <Compile Remove="11_auto_property1.cs" />
+    <Compile Remove="11_auto_property2.cs" />
+    <Compile Remove="12_auto_example1.cs" />
+    <Compile Remove="12_auto_example2.cs" />
+    <Compile Remove="12_auto_example3.cs" />
+    <Compile Remove="13_indexer1.cs" />
+    <Compile Remove="13_indexer2.cs" />
+    <Compile Remove="14_inheritance.cs" />
+    <Compile Remove="15_upcasting.cs" />
+    <Compile Remove="16_override1.cs" />
+    <Compile Remove="16_override2.cs" />
+    <Compile Remove="16_override3.cs" />
+    <Compile Remove="16_override4.cs" />
+    <Compile Remove="16_override5.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_method1_expression_bodied.cs" />
+    <None Include="01_method2_named_argument1.cs" />
+    <None Include="01_method3_optional_parameter1.cs" />
+    <None Include="01_method4_params1.cs" />
+    <None Include="01_method5_params2.cs" />
+    <None Include="02_parameter_modifier1.cs" />
+    <None Include="02_parameter_modifier2.cs" />
+    <None Include="02_parameter_modifier3.cs" />
+    <None Include="02_parameter_modifier4.cs" />
+    <None Include="02_parameter_modifier6.cs" />
+    <None Include="03_OOP1.cs" />
+    <None Include="03_OOP2.cs" />
+    <None Include="03_OOP3.cs" />
+    <None Include="04_private.cs" />
+    <None Include="05_deconstructor.cs" />
+    <None Include="06_static1.cs" />
+    <None Include="06_static2.cs" />
+    <None Include="06_static3.cs" />
+    <None Include="06_static4.cs" />
+    <None Include="06_static5.cs" />
+    <None Include="06_static6.cs" />
+    <None Include="07_static_class.cs" />
+    <None Include="07_static_class2.cs" />
+    <None Include="08_static_constructor.cs" />
+    <None Include="08_static_constructor2.cs" />
+    <None Include="09_property1.cs" />
+    <None Include="09_property2.cs" />
+    <None Include="09_property3.cs" />
+    <None Include="10_property_example1.cs" />
+    <None Include="10_property_example2.cs" />
+    <None Include="10_property_example3.cs" />
+    <None Include="11_auto_property1.cs" />
+    <None Include="11_auto_property2.cs" />
+    <None Include="12_auto_example1.cs" />
+    <None Include="12_auto_example2.cs" />
+    <None Include="12_auto_example3.cs" />
+    <None Include="13_indexer1.cs" />
+    <None Include="13_indexer2.cs" />
+    <None Include="14_inheritance.cs" />
+    <None Include="15_upcasting.cs" />
+    <None Include="16_override1.cs" />
+    <None Include="16_override2.cs" />
+    <None Include="16_override3.cs" />
+    <None Include="16_override4.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="16_override5.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="02_parameter_modifier5.cs" />
+  </ItemGroup>
+
+</Project>
