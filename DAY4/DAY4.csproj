@@ -1,0 +1,99 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_boxing_example3.cs" />
+    <Compile Remove="02_interface1.cs" />
+    <Compile Remove="02_interface2.cs" />
+    <Compile Remove="02_interface3.cs" />
+    <Compile Remove="02_interface4.cs" />
+    <Compile Remove="03_generic1.cs" />
+    <Compile Remove="03_generic2.cs" />
+    <Compile Remove="04_generic_constraint1.cs" />
+    <Compile Remove="04_generic_constraint2.cs" />
+    <Compile Remove="04_generic_constraint3.cs" />
+    <Compile Remove="05_delegate1.cs" />
+    <Compile Remove="05_delegate2.cs" />
+    <Compile Remove="05_delegate3.cs" />
+    <Compile Remove="06_delegate_method1.cs" />
+    <Compile Remove="06_delegate_method2.cs" />
+    <Compile Remove="06_delegate_method3.cs" />
+    <Compile Remove="06_delegate_method4.cs" />
+    <Compile Remove="06_delegate_method5.cs" />
+    <Compile Remove="07_example1.cs" />
+    <Compile Remove="07_example2.cs" />
+    <Compile Remove="07_example3.cs" />
+    <Compile Remove="07_example4.cs" />
+    <Compile Remove="08_action.cs" />
+    <Compile Remove="09_func.cs" />
+    <Compile Remove="10_predefined_delegate.cs" />
+    <Compile Remove="11_covariant1.cs" />
+    <Compile Remove="12_contravariant.cs" />
+    <Compile Remove="13_event1.cs" />
+    <Compile Remove="13_event2.cs" />
+    <Compile Remove="13_event4.cs" />
+    <Compile Remove="13_event5.cs" />
+    <Compile Remove="14_lambda1.cs" />
+    <Compile Remove="14_lambda2.cs" />
+    <Compile Remove="14_lambda3.cs" />
+    <Compile Remove="14_lambda4.cs" />
+    <Compile Remove="14_lambda5.cs" />
+    <Compile Remove="this1.cs" />
+    <Compile Remove="this2.cs" />
+    <Compile Remove="this3.cs" />
+    <Compile Remove="this4.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_boxing_example3.cs" />
+    <None Include="02_interface1.cs" />
+    <None Include="02_interface2.cs" />
+    <None Include="02_interface3.cs" />
+    <None Include="02_interface4.cs" />
+    <None Include="03_generic1.cs" />
+    <None Include="03_generic2.cs" />
+    <None Include="04_generic_constraint1.cs" />
+    <None Include="04_generic_constraint2.cs" />
+    <None Include="04_generic_constraint3.cs" />
+    <None Include="05_delegate1.cs" />
+    <None Include="05_delegate2.cs" />
+    <None Include="05_delegate3.cs" />
+    <None Include="06_delegate_method1.cs" />
+    <None Include="06_delegate_method2.cs" />
+    <None Include="06_delegate_method3.cs" />
+    <None Include="06_delegate_method4.cs" />
+    <None Include="06_delegate_method5.cs" />
+    <None Include="07_example1.cs" />
+    <None Include="07_example2.cs" />
+    <None Include="07_example3.cs" />
+    <None Include="07_example4.cs" />
+    <None Include="08_action.cs" />
+    <None Include="09_func.cs" />
+    <None Include="10_predefined_delegate.cs" />
+    <None Include="11_covariant1.cs" />
+    <None Include="12_contravariant.cs" />
+    <None Include="13_event1.cs" />
+    <None Include="13_event2.cs" />
+    <None Include="13_event4.cs" />
+    <None Include="13_event5.cs" />
+    <None Include="14_lambda1.cs" />
+    <None Include="14_lambda2.cs" />
+    <None Include="14_lambda3.cs" />
+    <None Include="14_lambda5.cs" />
+    <None Include="14_lambda4.cs" />
+    <None Include="this1.cs" />
+    <None Include="this2.cs" />
+    <None Include="this3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="this4.cs" />
+  </ItemGroup>
+
+</Project>
