@@ -1,0 +1,92 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="00_extension_method1.cs" />
+    <Compile Remove="00_extension_method2.cs" />
+    <Compile Remove="00_extension_method3.cs" />
+    <Compile Remove="01_array1.cs" />
+    <Compile Remove="01_array10.cs" />
+    <Compile Remove="01_array11.cs" />
+    <Compile Remove="01_array2.cs" />
+    <Compile Remove="01_array3.cs" />
+    <Compile Remove="01_array4.cs" />
+    <Compile Remove="01_array5.cs" />
+    <Compile Remove="01_array6.cs" />
+    <Compile Remove="01_array7.cs" />
+    <Compile Remove="01_array8.cs" />
+    <Compile Remove="01_array9.cs" />
+    <Compile Remove="02_collection1.cs" />
+    <Compile Remove="02_collection2-1.cs" />
+    <Compile Remove="02_collection2.cs" />
+    <Compile Remove="02_collection3-1.cs" />
+    <Compile Remove="02_collection3.cs" />
+    <Compile Remove="02_collection4.cs" />
+    <Compile Remove="02_collection5-1.cs" />
+    <Compile Remove="02_collection5.cs" />
+    <Compile Remove="02_collection6.cs" />
+    <Compile Remove="02_collection7-1.cs" />
+    <Compile Remove="02_collection7-2.cs" />
+    <Compile Remove="02_collection7-3.cs" />
+    <Compile Remove="02_collection7.cs" />
+    <Compile Remove="02_collection8.cs" />
+    <Compile Remove="03_Linq1.cs" />
+    <Compile Remove="03_Linq2.cs" />
+    <Compile Remove="03_Linq3.cs" />
+    <Compile Remove="03_Linq4.cs" />
+    <Compile Remove="03_Linq5.cs" />
+    <Compile Remove="exception1.cs" />
+    <Compile Remove="exception2.cs" />
+    <Compile Remove="exception3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="00_extension_method1.cs" />
+    <None Include="00_extension_method2.cs" />
+    <None Include="00_extension_method3.cs" />
+    <None Include="01_array1.cs" />
+    <None Include="01_array10.cs" />
+    <None Include="01_array11.cs" />
+    <None Include="01_array3.cs" />
+    <None Include="01_array4.cs" />
+    <None Include="01_array5.cs" />
+    <None Include="01_array6.cs" />
+    <None Include="01_array7.cs" />
+    <None Include="01_array8.cs" />
+    <None Include="01_array9.cs" />
+    <None Include="02_collection1.cs" />
+    <None Include="02_collection2-1.cs" />
+    <None Include="02_collection2.cs" />
+    <None Include="02_collection3-1.cs" />
+    <None Include="02_collection3.cs" />
+    <None Include="02_collection4.cs" />
+    <None Include="02_collection5-1.cs" />
+    <None Include="02_collection5.cs" />
+    <None Include="02_collection6.cs" />
+    <None Include="02_collection7-2.cs" />
+    <None Include="02_collection7.cs" />
+    <None Include="02_collection7-1.cs" />
+    <None Include="02_collection7-3.cs" />
+    <None Include="02_collection8.cs" />
+    <None Include="03_Linq1.cs" />
+    <None Include="03_Linq2.cs" />
+    <None Include="03_Linq3.cs" />
+    <None Include="03_Linq4.cs" />
+    <None Include="03_Linq5.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_array2.cs" />
+    <None Include="exception1.cs" />
+    <None Include="exception2.cs" />
+    <None Include="exception3.cs" />
+  </ItemGroup>
+
+
+</Project>
